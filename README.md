@@ -7,7 +7,7 @@ Sistema que permite gestionar **profesores** y sus **clases**, con una relación
 
 **Autores**: Ismael y Diego
 **Fecha**: Junio 2026 
-**Centro**: IES Puertollano
+**Centro**: CEIP Virgen de Gracia
 
 ---
 
